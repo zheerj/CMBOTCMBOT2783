@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const superagent = require("superagent");
 const Client = new Discord.Client();
-const OwnerID = "130515926117253122";
+const OwnerID = "331077803644682241";
 
 const prefix = "+"
 
