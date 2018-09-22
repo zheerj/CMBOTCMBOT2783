@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === prefix + 'ping') {
-    	message.reply('pong');
+    if (message.content === prefix + 'slaw') {
+    	message.reply('Slaw la to');
   	}
 });
 
